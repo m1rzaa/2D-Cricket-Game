@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 13850c37e39962949a2811e14edd6c6b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PT Root UI
+  fontNames:
+  - PT Root UI
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 85a55cc609375d54893515141c3b37c5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
